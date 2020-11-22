@@ -27,6 +27,20 @@
 .App-link {
   color: #61dafb;
 }
+.container {
+  padding: 0 1 rem;
+}
+.btn {
+  display: inline-block;
+  border: None;
+  background: #555;
+  color: #ddd;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+.btn :hover {
+  background: #666;
+}
 
 @keyframes App-logo-spin {
   from {

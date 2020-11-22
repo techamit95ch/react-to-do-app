@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"react_crash_to_do","dependencies":{"@testing-library/jest-dom":{"version":"5.11.6"},"@testing-library/react":{"version":"11.2.2"},"@testing-library/user-event":{"version":"12.2.2"},"react-dom":{"version":"17.0.1"},"react-scripts":{"version":"4.0.0"},"react":{"version":"17.0.1"},"web-vitals":{"version":"0.2.4"}}}
